@@ -7,4 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rollergod)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="left" width="47" src=""/>
+<img align="left" width="47" src="https://github-readme-stats.vercel.app/api?username=rollergod&show_icons=true&theme=dracula"/>
+<img align="left" width="47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rollergod"/>
