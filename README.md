@@ -1,8 +1,6 @@
-
-### Hi there 👋, I`m Renat.
-#### A backend developer.
-![A backend developer.](https://sun9-39.userapi.com/impg/yO55SDDgWMIgtKWU1xSDYxSR9IRxPdWS7pZE-g/XGNch8vUNX8.jpg?size=681x176&quality=96&sign=ad5522bea12bac05032c350720382095&type=album)
-
+<h1 align="center">Hi there, I'm Renat
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Backend developer student.  Learning technologies that I found interesting.</h3>
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rollergod&show_icons=true&theme=dracula"/>
