@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Renat
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend developer student.  Learning technologies that I found interesting.</h3>
+<h3 align="center">Backend developer student.</h3>
+<p align="center">Learning technologies that I found interesting.</p>
 
 <div align="center">
   
